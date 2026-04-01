@@ -29,7 +29,7 @@ Input → Risk Classifier → Decision Layer
 
 ---
 
-## 🧪 Run Example
+## 🧑‍💻 Author
 
-```bash
-python examples/demo.py
+Suneela Kanwal  
+AI Researcher | LLM Safety | Explainable AI
